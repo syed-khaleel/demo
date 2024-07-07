@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Hello World Good
-=======
-Hello World Bad ver
->>>>>>> bad-branch
+Hello World Bad very
 Bye World
 New World
